@@ -7,12 +7,8 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-window-roses.webp</image:loc>
-      <image:title>마지카코 — 햇살 드는 창가의 장미와 레이스 커튼</image:title>
-    </image:image>
-    <image:image>
       <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/og-image.jpg</image:loc>
-      <image:title>마지카코 MAJIKAKO 빈티지 셀렉트숍</image:title>
+      <image:title>마지카코 MAJIKAKO — 서울 빈티지 셀렉트숍</image:title>
     </image:image>
   </url>
 </urlset>
