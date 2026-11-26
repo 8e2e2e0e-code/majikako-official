@@ -3,28 +3,32 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://8e2e2e0e-code.github.io/majikako-official/</loc>
-    <lastmod>2026-11-25</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-lace-blouse.webp</image:loc>
-      <image:title>마지카코 — 아이보리 레이스 블라우스와 리본 커프스</image:title>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-window-roses.webp</image:loc>
+      <image:title>마지카코 — 햇살 드는 창가의 장미와 레이스 커튼</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-knit-flat.webp</image:loc>
-      <image:title>마지카코 — 크림 케이블 니트 플랫레이</image:title>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-ribbon-flatlay.webp</image:loc>
+      <image:title>마지카코 — 새틴 리본과 진주 머리핀 플랫레이</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-pink-duffle.webp</image:loc>
-      <image:title>마지카코 — 퍼 칼라 페일 핑크 더플 코트</image:title>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-teacup-biscuits.webp</image:loc>
+      <image:title>마지카코 — 장미 찻잔과 하트 쿠키</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-camel-duffle.webp</image:loc>
-      <image:title>마지카코 — 카멜 더플 코트</image:title>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-antique-mirror.webp</image:loc>
+      <image:title>마지카코 — 앤틱 손거울과 진주 목걸이</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-vanity-still.webp</image:loc>
-      <image:title>마지카코 — 앤틱 화장대와 진주 정물</image:title>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-lace-parasol.webp</image:loc>
+      <image:title>마지카코 — 레이스 양산 그늘 아래 정원 테이블</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-gingham-picnic.webp</image:loc>
+      <image:title>마지카코 — 핑크 깅엄 피크닉과 데이지</image:title>
     </image:image>
     <image:image>
       <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/og-image.jpg</image:loc>
