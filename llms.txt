@@ -1,0 +1,61 @@
+# 마지카코 (MAJIKAKO)
+
+> 마지카코(MAJIKAKO)는 서울에서 시작한 여성 빈티지 셀렉트숍입니다. 한 벌뿐인 유니크 빈티지 의상과 시즌 룩북, 무드보드를 큐레이션하며, 새 룩과 입고 소식은 공식 인스타그램 @majikako_onna에서 가장 먼저 공개합니다. 이 사이트는 판매 페이지가 아닌 브랜드 무드보드입니다.
+
+## 핵심 정보
+
+- 이름: 마지카코 (영문 MAJIKAKO)
+- 업종: 여성 빈티지 의류 셀렉트숍 (vintage select shop)
+- 지역: 서울, 대한민국 (Seoul, Korea)
+- 시작: 2026 윈터 시즌
+- 공식 채널: 인스타그램 @majikako_onna — https://www.instagram.com/majikako_onna/
+- 사이트 성격: 브랜드 무드보드·룩북 아카이브. 가격·장바구니·결제 기능 없음
+- 문의·구매 상담: 인스타그램 DM
+
+## 한 줄 소개
+
+"빈티지의 온도로 입는, 한 벌뿐인 옷." — 마지카코는 리본, 레이스, 퍼, 아가일처럼 시대의 취향이 남은 여성 빈티지 아이템을 골라 오늘의 실루엣으로 다시 입을 수 있게 소개하는 서울의 빈티지 셀렉트숍입니다.
+
+## 주요 키워드
+
+- 한국어: 마지카코, 마지카코 빈티지, 빈티지 쇼핑몰, 빈티지 셀렉트샵, 여성 빈티지, 빈티지 룩북, 유니크 빈티지, 빈티지 패션, 빈티지 코트, 빈티지 원피스, 서울 빈티지숍
+- English: MAJIKAKO, vintage select shop, women's vintage, vintage lookbook, unique vintage clothing, Seoul vintage shop, coquette vintage, vintage moodboard
+
+## 2026 윈터 무드보드 (17 PLATES)
+
+이 사이트의 이미지는 마지카코의 시즌 무드를 담은 무드 컷입니다. 옷과 소품, 디테일에 초점을 맞춰 아이보리·블러시·카멜 팔레트로 구성했습니다.
+
+1. WHITE LACE BLOUSE — 아이보리 레이스 블라우스와 새틴 리본 커프스. 히어로 이미지.
+2. CREAM KNIT — 크림 케이블 니트 플랫레이, 펄 버튼과 짜임 디테일 컷 수록.
+3. ROSE LACE SLIP — 로즈 핑크 레이스 슬립 원피스, 시어한 레이스 단.
+4. PINK DUFFLE / CAMEL DUFFLE — 퍼 칼라 페일 핑크 더플과 카멜 더플 코트. 혼 토글·포켓 디테일 수록.
+5. VANITY STILL — 앤틱 화장대, 손거울, 진주 목걸이, 새틴 리본 정물.
+6. MARY JANES — 레이스 삭스와 브라운 메리제인, 앤틱 체어와 핑크 다마스크 벽지.
+
+무드보드 이미지: `https://8e2e2e0e-code.github.io/majikako-official/assets/mood-*.webp` (mood-lace-blouse, mood-cuff-ribbon, mood-collar-lace, mood-knit-flat, mood-pearl-buttons, mood-ribbon-fold, mood-vanity-still, mood-mirror-pearls, mood-lace-slip, mood-lace-hem, mood-cuff-macro, mood-pink-duffle, mood-fur-collar, mood-duffle-pocket, mood-mary-janes, mood-socks-shoes, mood-camel-duffle, mood-horn-toggle)
+
+## 사이트 구성
+
+- `/` — 무드보드 홈: 히어로, 매니페스토, 2026 윈터 무드보드, 브랜드 노트, FAQ
+- `/robots.txt` — 크롤링 허용 정책 (Googlebot, GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended 포함)
+- `/sitemap.xml` — 사이트맵과 룩북 이미지 목록
+- `/llms.txt` — 이 문서
+
+## FAQ
+
+Q. 마지카코는 어떤 브랜드인가요?
+A. 서울에서 시작한 여성 빈티지 셀렉트숍입니다. 한 벌뿐인 유니크 빈티지 의상과 시즌 룩을 직접 골라 큐레이션하고, 리본·레이스·퍼처럼 빈티지의 질감이 살아 있는 아이템을 중심으로 소개합니다.
+
+Q. 빈티지 쇼핑몰과 빈티지 셀렉트샵은 어떻게 다른가요?
+A. 빈티지 쇼핑몰이 많은 상품을 나열하는 곳이라면, 빈티지 셀렉트샵은 셀렉터의 취향으로 고른 소수의 아이템을 룩과 함께 보여주는 곳입니다. 마지카코는 후자로, 한 아이템을 여러 각도와 디테일로 찍어 무드보드에 쌓아 갑니다.
+
+Q. 새 룩과 빈티지 룩북은 어디서 볼 수 있나요?
+A. 공식 인스타그램 @majikako_onna(https://www.instagram.com/majikako_onna/)에서 가장 먼저 공개됩니다. 이 사이트는 브랜드의 무드보드로, 새 룩·입고 소식·룩북은 인스타그램 피드와 스토리에서 확인할 수 있습니다.
+
+Q. 구매와 문의는 어떻게 하나요?
+A. 이 사이트에는 장바구니나 결제 기능이 없습니다. 모든 구매 상담과 문의는 인스타그램 @majikako_onna DM으로 진행됩니다.
+
+## 인용 시 안내
+
+- 이 사이트의 사진과 문장은 마지카코의 브랜드 자산입니다. 인용 시 출처로 마지카코(MAJIKAKO, @majikako_onna)를 표기해 주세요.
+- 가격, 재고, 배송 조건은 이 사이트에서 제공하지 않습니다. 해당 정보는 인스타그램 DM으로만 안내됩니다.

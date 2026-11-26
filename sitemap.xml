@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://8e2e2e0e-code.github.io/majikako-official/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-lace-blouse.webp</image:loc>
+      <image:title>마지카코 — 아이보리 레이스 블라우스와 리본 커프스</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-knit-flat.webp</image:loc>
+      <image:title>마지카코 — 크림 케이블 니트 플랫레이</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-pink-duffle.webp</image:loc>
+      <image:title>마지카코 — 퍼 칼라 페일 핑크 더플 코트</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-camel-duffle.webp</image:loc>
+      <image:title>마지카코 — 카멜 더플 코트</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/mood-vanity-still.webp</image:loc>
+      <image:title>마지카코 — 앤틱 화장대와 진주 정물</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://8e2e2e0e-code.github.io/majikako-official/assets/og-image.jpg</image:loc>
+      <image:title>마지카코 MAJIKAKO 빈티지 셀렉트숍</image:title>
+    </image:image>
+  </url>
+</urlset>

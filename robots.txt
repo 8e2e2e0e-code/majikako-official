@@ -1,0 +1,51 @@
+# robots.txt — MAJIKAKO (마지카코) 빈티지 셀렉트숍
+# https://8e2e2e0e-code.github.io/majikako-official
+
+User-agent: *
+Allow: /
+
+# 검색엔진
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: Daum
+Allow: /
+
+# AI 검색·답변 엔진 (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://8e2e2e0e-code.github.io/majikako-official/sitemap.xml
